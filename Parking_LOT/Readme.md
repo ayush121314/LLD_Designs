@@ -20,6 +20,11 @@ The goal of this project is to demonstrate:
 
 This is a design-first project aimed at interview readiness and architectural clarity.
 
+Link to preview -> https://lnkd.in/gXDgEnHY
+
+Detailed Sequence diagram-: 
+Parking ->https://lnkd.in/dz4a3fh4
+Unpark-> https://lnkd.in/dz4a3fh4
 ---
 
 ## System Scope

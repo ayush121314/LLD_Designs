@@ -17,6 +17,14 @@ The design emphasizes:
 This project is **design-focused**, not an implementation project.
 It serves as a reference architecture for **interview preparation** and understanding **real-world system modelling**.
 
+Live Here -: https://lnkd.in/gcXv6Vdx
+
+Detailed Sequence diagram
+Withdraw-: https://lnkd.in/g_qaVHEr
+Balance Check-> https://lnkd.in/g9TvhxDD
+Deposit-> https://lnkd.in/g6aMG8Mf
+
+
 ---
 
 ## 🎯 System Scope
