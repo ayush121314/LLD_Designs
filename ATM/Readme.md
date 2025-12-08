@@ -20,8 +20,11 @@ It serves as a reference architecture for **interview preparation** and understa
 Live Here -: https://lnkd.in/gcXv6Vdx
 
 Detailed Sequence diagram
+
 Withdraw-: https://lnkd.in/g_qaVHEr
+
 Balance Check-> https://lnkd.in/g9TvhxDD
+
 Deposit-> https://lnkd.in/g6aMG8Mf
 
 
