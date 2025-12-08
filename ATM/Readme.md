@@ -1,4 +1,7 @@
+
 # 🏧 ATM System — Low Level Design (LLD)
+
+<img width="14743" height="12397" alt="UML_ATM" src="https://github.com/user-attachments/assets/b5388755-eeae-435f-855d-22fc489246eb" />
 
 This repository contains the **Low Level Design (LLD)** for a production-grade **ATM Machine System**.
 
