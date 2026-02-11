@@ -1,6 +1,11 @@
 # 🔗 Production-Ready URL Shortener
 <img width="5453" height="3568" alt="image" src="https://github.com/user-attachments/assets/95875b9c-1a94-4d55-936a-95d9cbe6a142" />
 
+
+
+Design -> https://lnkd.in/gphACfug
+Sequence diaagram -> https://lnkd.in/gKRDpR5Y
+
 A scalable, distributed URL Shortener designed with production-level architecture principles including Read/Write separation, distributed ID generation (Snowflake), caching, and clean service layering.
 
 ---
