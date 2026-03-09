@@ -1,4 +1,5 @@
 # Task Management System
+<img width="4160" height="2964" alt="image" src="https://github.com/user-attachments/assets/5462e05d-83de-4bc0-ad2d-3a17056dd5da" />
 
 A scalable backend system for managing tasks, assignments, comments, and workflows — inspired by tools like Jira, Linear, GitHub Issues, and Asana.
 
